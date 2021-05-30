@@ -3,7 +3,7 @@
 //  touchdown
 //
 //  Created by Anderson Simões Vieira on 29/05/21.
-//
+
 
 import SwiftUI
 
@@ -11,11 +11,11 @@ struct NavigationBarView: View {
     // MARK: - PROPERTIES
     
     @State private var isAnimated: Bool = false
-    
+
     // MARK: - BODY
     var body: some View {
         HStack {
-            Button(action: /*@START_MENU_TOKEN@*/{}/*@END_MENU_TOKEN@*/, label: {
+            Button(action: {}, label: {
                 Image(systemName: "magnifyingglass")
                     .font(.title)
                     .foregroundColor(.black)
@@ -48,6 +48,7 @@ struct NavigationBarView: View {
         } //: HSTACK
     }
 }
+
 // MARK: - PREVIEW
 struct NavigationBarView_Previews: PreviewProvider {
     static var previews: some View {

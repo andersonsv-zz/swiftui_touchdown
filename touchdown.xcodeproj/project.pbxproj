@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		71B5839526540D3100EE9F4F /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B5839426540D3100EE9F4F /* NavigationBarView.swift */; };
 		754531E72652F77E00F5C739 /* touchdownApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754531E62652F77E00F5C739 /* touchdownApp.swift */; };
 		754531E92652F77E00F5C739 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754531E82652F77E00F5C739 /* ContentView.swift */; };
 		754531EB2652F77F00F5C739 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 754531EA2652F77F00F5C739 /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		71B5839426540D3100EE9F4F /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
 		754531E32652F77E00F5C739 /* touchdown.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = touchdown.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		754531E62652F77E00F5C739 /* touchdownApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = touchdownApp.swift; sourceTree = "<group>"; };
 		754531E82652F77E00F5C739 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
