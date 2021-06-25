@@ -41,6 +41,7 @@
 		75D6C9EC2674EA5500AE7C74 /* CategoryGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75D6C9EB2674EA5500AE7C74 /* CategoryGridView.swift */; };
 		75F4BF222662EBC700742E3C /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F4BF212662EBC700742E3C /* NavigationBarView.swift */; };
 		75F4BF242662F6C000742E3C /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F4BF232662F6C000742E3C /* LogoView.swift */; };
+		75F82C9A26860FF500BA8BB6 /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F82C9926860FF500BA8BB6 /* Shop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		75D6C9EB2674EA5500AE7C74 /* CategoryGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryGridView.swift; sourceTree = "<group>"; };
 		75F4BF212662EBC700742E3C /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
 		75F4BF232662F6C000742E3C /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
+		75F82C9926860FF500BA8BB6 /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 			children = (
 				754532052652FB4400F5C739 /* Constant.swift */,
 				7503D749267E46A800A28E01 /* CustomShape.swift */,
+				75F82C9926860FF500BA8BB6 /* Shop.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				75D6C9EA2674E52500AE7C74 /* CategoryItemView.swift in Sources */,
 				755B9DAB2663BF4F00826CD5 /* FeaturedTabView.swift in Sources */,
 				7503D74A267E46A800A28E01 /* CustomShape.swift in Sources */,
+				75F82C9A26860FF500BA8BB6 /* Shop.swift in Sources */,
 				755B9DA52663BCD300826CD5 /* PlayerModel.swift in Sources */,
 				758DB452267698FA00F9BD41 /* BrandModel.swift in Sources */,
 				756080A5267537D00045DF05 /* TitleView.swift in Sources */,
